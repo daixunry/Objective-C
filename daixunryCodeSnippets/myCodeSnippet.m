@@ -11,5 +11,11 @@
 [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"<#image name#>"]]//shortcut : uiiai
 [[UIView alloc] initWithFrame:<#(CGRect)#>]//shortcut : uiva
 
+//function
+- (void)<#functionName#>  //shortcut : vf
+{
+
+}
+
 //other
 #pragma mark - <#Section#> //shortcut : mark
